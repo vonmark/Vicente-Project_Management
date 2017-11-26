@@ -1,5 +1,5 @@
 
-Title: Billing System for Aquatic Resources
+Title: Database Management for Aquatic Resources
 
 Background of the Study
 
@@ -19,3 +19,11 @@ business records or presentation.
 Because of living in a agricultural land as a child, maybe i can help their work easier, through this system, wherein they can put
 all their record in a database that collects data in an organize manner, it can even help them in forecasting future business plan 
 to improve their business.
+
+The main aquatic resources we are breeding are prawns and milkfish 
+
+i am changing it to database management because the main purpose of this project is to help us keep track of our past activities
+like 
+1.)records of expenses 
+2.)time of harvestment 
+3.)return of income
