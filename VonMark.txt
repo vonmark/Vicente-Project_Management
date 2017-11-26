@@ -1,0 +1,21 @@
+
+Title: Billing System for Aquatic Resources
+
+Background of the Study
+
+In the past, creating records for everyday activities are hard because of the manual way of listing, it also risk the output because of
+human errors and will also consume a lot of time, the way of gathering datas are also difficult, because not only you have to copy the 
+information manually, since its tangiable these records can be lost, destroyed or not understandable because of ugly handwriting  and will 
+take a lot of time, but most of all, you have to make sure that the source is secured or in other words, trustworthy. That is a major need 
+for a business, having a partner in business are a huge factor in managing not only
+their business but also yours, it will also extend your network because of advertisement from your partners that can create 
+other potential customers.
+
+now in the present, through the growing technology, by the use of gadgets like cellphones, tablets or computer. We can create records not 
+by the use of paper but through
+the Words,excel, powerpoint or other office applications. Because of these creating records will be easy, even through the use of letters,
+business records or presentation.
+
+Because of living in a agricultural land as a child, maybe i can help their work easier, through this system, wherein they can put
+all their record in a database that collects data in an organize manner, it can even help them in forecasting future business plan 
+to improve their business.
